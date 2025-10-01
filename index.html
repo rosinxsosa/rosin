@@ -764,16 +764,26 @@
             'Other': 'gamepad-2'
         };
 
-        // Load games from JSON
+        // Load games from CDN JSON
         fetch('https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@latest/games.json')
             .then(response => response.json())
             .then(games => {
+                console.log('Loaded games from CDN:', games.length);
                 allGames = games;
                 initializeCarousel();
                 startRandomGameRotation();
             })
             .catch(error => {
-                console.error('Error loading games:', error);
+                console.error('Error loading games from CDN:', error);
+                // Show error message to user
+                document.getElementById('categories').innerHTML = `
+                    <div style="text-align: center; padding: 40px; color: rgba(255,255,255,0.7);">
+                        <i data-lucide="alert-circle" width="48" height="48"></i>
+                        <h3 style="margin: 20px 0;">Unable to load games</h3>
+                        <p>Please check your internet connection and try refreshing the page.</p>
+                    </div>
+                `;
+                lucide.createIcons();
             });
 
         function initializeCarousel() {
@@ -892,25 +902,57 @@
                 </div>
             `;
 
-            // Load game iframe
-            const iframe = document.createElement('iframe');
-            iframe.className = 'game-frame';
-            iframe.src = game.url;
-            iframe.allowFullscreen = true;
-            iframe.allow = "fullscreen; gamepad; microphone; camera";
-            
-            const container = document.getElementById('gameFrameContainer');
-            const loading = document.getElementById('loading');
-            
-            iframe.onload = () => {
-                loading.style.display = 'none';
-            };
-
-            container.innerHTML = '';
-            container.appendChild(iframe);
+            // Load game using launch function
+            launchGame(game.id);
 
             // Reinitialize Lucide icons
             lucide.createIcons();
+        }
+
+        function launchGame(gameId) {
+            try {
+                fetch(`https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${gameId}.html?t=${Date.now()}`)
+                    .then(response => response.text())
+                    .then(html => {
+                        const container = document.getElementById('gameFrameContainer');
+                        const loading = document.getElementById('loading');
+                        
+                        // Hide loading
+                        loading.style.display = 'none';
+                        
+                        // Replace the container content with the game HTML
+                        container.innerHTML = html;
+
+                        // Re-execute scripts in the loaded content
+                        container.querySelectorAll('script').forEach(oldScript => {
+                            const newScript = document.createElement('script');
+                            if (oldScript.src) {
+                                newScript.src = oldScript.src;
+                            } else {
+                                newScript.textContent = oldScript.textContent;
+                            }
+                            container.appendChild(newScript);
+                        });
+                    })
+                    .catch(error => {
+                        console.error('Error loading game:', error);
+                        // Fallback to iframe
+                        const iframe = document.createElement('iframe');
+                        iframe.className = 'game-frame';
+                        iframe.src = `https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${gameId}.html`;
+                        iframe.allowFullscreen = true;
+                        iframe.allow = "fullscreen; gamepad; microphone; camera";
+                        
+                        const container = document.getElementById('gameFrameContainer');
+                        const loading = document.getElementById('loading');
+                        
+                        loading.style.display = 'none';
+                        container.innerHTML = '';
+                        container.appendChild(iframe);
+                    });
+            } catch (error) {
+                console.error('Error in launchGame function:', error);
+            }
         }
 
         function getCategoryIcon(category) {
