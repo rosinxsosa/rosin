@@ -744,7 +744,7 @@
         }
 
         // Start rotation when games are loaded
-        fetch('games.json')
+        fetch('https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@master/games.json')
             .then(response => response.json())
             .then(games => {
                 allGames = games;
