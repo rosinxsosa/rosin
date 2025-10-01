@@ -304,7 +304,7 @@
         const gameId = urlParams.get('id');
 
         // Load game data
-        fetch('games.json')
+        fetch(https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@master/games.json')
             .then(response => response.json())
             .then(games => {
                 currentGame = games.find(game => game.id == gameId);
