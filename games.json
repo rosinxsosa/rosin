@@ -5,7 +5,7 @@
     "description": "Play Bowmasters online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/0.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/0.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/0.png"
   },
   {
@@ -14,7 +14,7 @@
     "description": "Play OvO B online",
     "creator": "Various",
     "category": "Platform",
-    "url": "/games/1.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/1.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/1.png"
   },
   {
@@ -23,7 +23,7 @@
     "description": "Play Game 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/2.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/2.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/2.png"
   },
   {
@@ -32,7 +32,7 @@
     "description": "Play OvO Dimensions online",
     "creator": "Various",
     "category": "Platform",
-    "url": "/games/3.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/3.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/3.png"
   },
   {
@@ -41,7 +41,7 @@
     "description": "Play Gladihoppers online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/4.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/4.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/4.png"
   },
   {
@@ -50,7 +50,7 @@
     "description": "Play Ice Dodo online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/5.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/5.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/5.png"
   },
   {
@@ -59,7 +59,7 @@
     "description": "Play Block Blast Puzzle online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/6.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/6.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/6.png"
   },
   {
@@ -68,7 +68,7 @@
     "description": "Play Jetpack Joyride online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/7.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/7.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/7.png"
   },
   {
@@ -77,7 +77,7 @@
     "description": "Play Friday Night Funkin' online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/8.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/8.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/8.png"
   },
   {
@@ -86,7 +86,7 @@
     "description": "Play Sprunki online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/9.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/9.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/9.png"
   },
   {
@@ -95,7 +95,7 @@
     "description": "Play Temple Run 2 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/10.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/10.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/10.png"
   },
   {
@@ -104,7 +104,7 @@
     "description": "Play Game 11 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/11.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/11.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/11.png"
   },
   {
@@ -113,7 +113,7 @@
     "description": "Play Subway Surfers online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/12.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/12.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/12.png"
   },
   {
@@ -122,7 +122,7 @@
     "description": "Play AttackHole online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/13.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/13.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/13.png"
   },
   {
@@ -131,7 +131,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/14.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/14.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/14.png"
   },
   {
@@ -140,7 +140,7 @@
     "description": "Play ColorWaterSort3D online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/15.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/15.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/15.png"
   },
   {
@@ -149,7 +149,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/16.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/16.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/16.png"
   },
   {
@@ -158,7 +158,7 @@
     "description": "Play PI Playables online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/17.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/17.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/17.png"
   },
   {
@@ -167,7 +167,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/18.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/18.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/18.png"
   },
   {
@@ -176,7 +176,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/19.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/19.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/19.png"
   },
   {
@@ -185,7 +185,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/20.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/20.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/20.png"
   },
   {
@@ -194,7 +194,7 @@
     "description": "Play Turbo Stars online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/21.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/21.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/21.png"
   },
   {
@@ -203,7 +203,7 @@
     "description": "Play Mob control online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/22.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/22.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/22.png"
   },
   {
@@ -212,7 +212,7 @@
     "description": "Play Pou online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/23.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/23.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/23.png"
   },
   {
@@ -221,7 +221,7 @@
     "description": "Play Crossy Road online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/24.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/24.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/24.png"
   },
   {
@@ -230,7 +230,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/25.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/25.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/25.png"
   },
   {
@@ -239,7 +239,7 @@
     "description": "Play Game 26 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/26.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/26.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/26.png"
   },
   {
@@ -248,7 +248,7 @@
     "description": "Play Geometry Dash online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/27.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/27.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/27.png"
   },
   {
@@ -257,7 +257,7 @@
     "description": "Play Play Basketball FRVR - Free Basketball Hoop Shooter online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/28.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/28.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/28.png"
   },
   {
@@ -266,7 +266,7 @@
     "description": "Play Game 29 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/29.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/29.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/29.png"
   },
   {
@@ -275,7 +275,7 @@
     "description": "Play Bottle Jump 3D online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/30.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/30.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/30.png"
   },
   {
@@ -284,7 +284,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/31.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/31.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/31.png"
   },
   {
@@ -293,7 +293,7 @@
     "description": "Play Dig Deep online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/32.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/32.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/32.png"
   },
   {
@@ -302,7 +302,7 @@
     "description": "Play Retro Bowl online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/33.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/33.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/33.png"
   },
   {
@@ -311,7 +311,7 @@
     "description": "Play Retro Bowl College online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/34.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/34.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/34.png"
   },
   {
@@ -320,7 +320,7 @@
     "description": "Play Drive Mad online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/35.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/35.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/35.png"
   },
   {
@@ -329,7 +329,7 @@
     "description": "Play Monster Tracks online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/36.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/36.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/36.png"
   },
   {
@@ -338,7 +338,7 @@
     "description": "Play Gobble online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/37.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/37.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/37.png"
   },
   {
@@ -347,7 +347,7 @@
     "description": "Play Five Nights at Freddy's 1 online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/38.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/38.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/38.png"
   },
   {
@@ -356,7 +356,7 @@
     "description": "Play Five Nights at Freddy's 2 online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/39.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/39.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/39.png"
   },
   {
@@ -365,7 +365,7 @@
     "description": "Play Five Nights at Freddy's 3 online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/40.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/40.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/40.png"
   },
   {
@@ -374,7 +374,7 @@
     "description": "Play Five Nights at Freddy's 4 online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/41.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/41.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/41.png"
   },
   {
@@ -383,7 +383,7 @@
     "description": "Play Game 42 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/42.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/42.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/42.png"
   },
   {
@@ -392,7 +392,7 @@
     "description": "Play Driven Wild! 🚗🌴 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/43.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/43.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/43.png"
   },
   {
@@ -401,7 +401,7 @@
     "description": "Play Ragdoll Hit online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/44.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/44.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/44.png"
   },
   {
@@ -410,7 +410,7 @@
     "description": "Play Game 45 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/45.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/45.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/45.png"
   },
   {
@@ -419,7 +419,7 @@
     "description": "Play Game 46 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/46.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/46.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/46.png"
   },
   {
@@ -428,7 +428,7 @@
     "description": "Play Vex 3 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/47.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/47.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/47.png"
   },
   {
@@ -437,7 +437,7 @@
     "description": "Play Vex 3 Xmas online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/48.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/48.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/48.png"
   },
   {
@@ -446,7 +446,7 @@
     "description": "Play Vex 4 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/49.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/49.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/49.png"
   },
   {
@@ -455,7 +455,7 @@
     "description": "Play Vex 5 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/50.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/50.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/50.png"
   },
   {
@@ -464,7 +464,7 @@
     "description": "Play Vex 6 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/51.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/51.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/51.png"
   },
   {
@@ -473,7 +473,7 @@
     "description": "Play Vex 7 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/52.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/52.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/52.png"
   },
   {
@@ -482,7 +482,7 @@
     "description": "Play Vex 8 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/53.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/53.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/53.png"
   },
   {
@@ -491,7 +491,7 @@
     "description": "Play Vex Challenges online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/54.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/54.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/54.png"
   },
   {
@@ -500,7 +500,7 @@
     "description": "Play Vex X3M online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/55.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/55.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/55.png"
   },
   {
@@ -509,7 +509,7 @@
     "description": "Play Vex X3M 2 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/56.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/56.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/56.png"
   },
   {
@@ -518,7 +518,7 @@
     "description": "Play Monkey Mart online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/57.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/57.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/57.png"
   },
   {
@@ -527,7 +527,7 @@
     "description": "Play Game 58 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/58.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/58.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/58.png"
   },
   {
@@ -536,7 +536,7 @@
     "description": "Play Game 59 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/59.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/59.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/59.png"
   },
   {
@@ -545,7 +545,7 @@
     "description": "Play Game 60 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/60.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/60.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/60.png"
   },
   {
@@ -554,7 +554,7 @@
     "description": "Play Game 61 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/61.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/61.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/61.png"
   },
   {
@@ -563,7 +563,7 @@
     "description": "Play Game 62 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/62.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/62.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/62.png"
   },
   {
@@ -572,7 +572,7 @@
     "description": "Play Game 63 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/63.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/63.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/63.png"
   },
   {
@@ -581,7 +581,7 @@
     "description": "Play Backrooms online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/64.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/64.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/64.png"
   },
   {
@@ -590,7 +590,7 @@
     "description": "Play Baldi's Basics online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/65.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/65.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/65.png"
   },
   {
@@ -599,7 +599,7 @@
     "description": "Play Basket Random online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/66.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/66.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/66.png"
   },
   {
@@ -608,7 +608,7 @@
     "description": "Play Game 67 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/67.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/67.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/67.png"
   },
   {
@@ -617,7 +617,7 @@
     "description": "Play Game 68 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/68.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/68.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/68.png"
   },
   {
@@ -626,7 +626,7 @@
     "description": "Play Game 69 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/69.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/69.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/69.png"
   },
   {
@@ -635,7 +635,7 @@
     "description": "Play BitLife - Life Simulator online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/70.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/70.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/70.png"
   },
   {
@@ -644,7 +644,7 @@
     "description": "Play Game 71 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/71.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/71.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/71.png"
   },
   {
@@ -653,7 +653,7 @@
     "description": "Play Game 72 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/72.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/72.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/72.png"
   },
   {
@@ -662,7 +662,7 @@
     "description": "Play Game 73 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/73.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/73.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/73.png"
   },
   {
@@ -671,7 +671,7 @@
     "description": "Play Game 74 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/74.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/74.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/74.png"
   },
   {
@@ -680,7 +680,7 @@
     "description": "Play Game 75 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/75.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/75.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/75.png"
   },
   {
@@ -689,7 +689,7 @@
     "description": "Play Bob The Robber 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/76.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/76.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/76.png"
   },
   {
@@ -698,7 +698,7 @@
     "description": "Play Boxing Random online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/77.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/77.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/77.png"
   },
   {
@@ -707,7 +707,7 @@
     "description": "Play Game 78 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/78.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/78.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/78.png"
   },
   {
@@ -716,7 +716,7 @@
     "description": "Play Game 79 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/79.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/79.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/79.png"
   },
   {
@@ -725,7 +725,7 @@
     "description": "Play Game 80 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/80.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/80.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/80.png"
   },
   {
@@ -734,7 +734,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/81.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/81.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/81.png"
   },
   {
@@ -743,7 +743,7 @@
     "description": "Play Game 82 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/82.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/82.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/82.png"
   },
   {
@@ -752,7 +752,7 @@
     "description": "Play Core Ball, Level 4 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/83.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/83.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/83.png"
   },
   {
@@ -761,7 +761,7 @@
     "description": "Play Game 84 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/84.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/84.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/84.png"
   },
   {
@@ -770,7 +770,7 @@
     "description": "Play Cut the Rope online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/85.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/85.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/85.png"
   },
   {
@@ -779,7 +779,7 @@
     "description": "Play Game 86 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/86.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/86.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/86.png"
   },
   {
@@ -788,7 +788,7 @@
     "description": "Play EmulatorJS online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/87.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/87.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/87.png"
   },
   {
@@ -797,7 +797,7 @@
     "description": "Play Fireboy & Watergirl 2 Light Temple online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/88.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/88.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/88.png"
   },
   {
@@ -806,7 +806,7 @@
     "description": "Play Fireboy & Watergirl 3 Ice Temple online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/89.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/89.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/89.png"
   },
   {
@@ -815,7 +815,7 @@
     "description": "Play Granny Original online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/90.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/90.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/90.png"
   },
   {
@@ -824,7 +824,7 @@
     "description": "Play gunspin online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/91.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/91.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/91.png"
   },
   {
@@ -833,7 +833,7 @@
     "description": "Play Highway Racer 2 online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/92.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/92.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/92.png"
   },
   {
@@ -842,7 +842,7 @@
     "description": "Play Game 93 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/93.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/93.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/93.png"
   },
   {
@@ -851,7 +851,7 @@
     "description": "Play journey downhill online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/94.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/94.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/94.png"
   },
   {
@@ -860,7 +860,7 @@
     "description": "Play Game 95 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/95.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/95.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/95.png"
   },
   {
@@ -869,7 +869,7 @@
     "description": "Play Game 96 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/96.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/96.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/96.png"
   },
   {
@@ -878,7 +878,7 @@
     "description": "Play Moto X3M 2 online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/97.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/97.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/97.png"
   },
   {
@@ -887,7 +887,7 @@
     "description": "Play Moto X3M 3 online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/98.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/98.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/98.png"
   },
   {
@@ -896,7 +896,7 @@
     "description": "Play MotoX3M 6 Spooky Land online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/99.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/99.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/99.png"
   },
   {
@@ -905,7 +905,7 @@
     "description": "Play Game 100 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/100.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/100.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/100.png"
   },
   {
@@ -914,7 +914,7 @@
     "description": "Play Ninja vs EVILCORP online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/101.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/101.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/101.png"
   },
   {
@@ -923,7 +923,7 @@
     "description": "Play Paper.io 2 online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/102.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/102.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/102.png"
   },
   {
@@ -932,7 +932,7 @@
     "description": "Play Game 103 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/103.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/103.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/103.png"
   },
   {
@@ -941,7 +941,7 @@
     "description": "Play Game 104 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/104.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/104.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/104.png"
   },
   {
@@ -950,7 +950,7 @@
     "description": "Play Game 105 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/105.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/105.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/105.png"
   },
   {
@@ -959,7 +959,7 @@
     "description": "Play Game 106 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/106.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/106.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/106.png"
   },
   {
@@ -968,7 +968,7 @@
     "description": "Play Game 107 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/107.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/107.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/107.png"
   },
   {
@@ -977,7 +977,7 @@
     "description": "Play Tiny Fishing 1 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/108.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/108.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/108.png"
   },
   {
@@ -986,7 +986,7 @@
     "description": "Play Game 109 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/109.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/109.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/109.png"
   },
   {
@@ -995,7 +995,7 @@
     "description": "Play Game 110 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/110.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/110.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/110.png"
   },
   {
@@ -1004,7 +1004,7 @@
     "description": "Play Game 111 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/111.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/111.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/111.png"
   },
   {
@@ -1013,7 +1013,7 @@
     "description": "Play Wordle online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/112.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/112.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/112.png"
   },
   {
@@ -1022,7 +1022,7 @@
     "description": "Play Ruffle Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/113.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/113.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/113.png"
   },
   {
@@ -1031,7 +1031,7 @@
     "description": "Play Game 114 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/114.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/114.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/114.png"
   },
   {
@@ -1040,7 +1040,7 @@
     "description": "Play Game 115 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/115.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/115.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/115.png"
   },
   {
@@ -1049,7 +1049,7 @@
     "description": "Play MX OffRoad Mountain Bike online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/116.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/116.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/116.png"
   },
   {
@@ -1058,7 +1058,7 @@
     "description": "Play Space Waves online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/117.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/117.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/117.png"
   },
   {
@@ -1067,7 +1067,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/118.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/118.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/118.png"
   },
   {
@@ -1076,7 +1076,7 @@
     "description": "Play Game 119 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/119.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/119.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/119.png"
   },
   {
@@ -1085,7 +1085,7 @@
     "description": "Play Fortzone Battle Royale online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/120.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/120.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/120.png"
   },
   {
@@ -1094,7 +1094,7 @@
     "description": "Play BrawlGuys.io online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/121.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/121.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/121.png"
   },
   {
@@ -1103,7 +1103,7 @@
     "description": "Play Survival Race online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/122.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/122.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/122.png"
   },
   {
@@ -1112,7 +1112,7 @@
     "description": "Play Game 123 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/123.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/123.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/123.png"
   },
   {
@@ -1121,7 +1121,7 @@
     "description": "Play Moto X3M Pool Party online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/124.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/124.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/124.png"
   },
   {
@@ -1130,7 +1130,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/125.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/125.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/125.png"
   },
   {
@@ -1139,7 +1139,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/126.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/126.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/126.png"
   },
   {
@@ -1148,7 +1148,7 @@
     "description": "Play Fashion Battle online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/127.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/127.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/127.png"
   },
   {
@@ -1157,7 +1157,7 @@
     "description": "Play Game 128 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/128.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/128.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/128.png"
   },
   {
@@ -1166,7 +1166,7 @@
     "description": "Play Flappy Bird Multiplayer online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/129.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/129.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/129.png"
   },
   {
@@ -1175,7 +1175,7 @@
     "description": "Play WebOsu 2.0! online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/130.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/130.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/130.png"
   },
   {
@@ -1184,7 +1184,7 @@
     "description": "Play Subway Surfers: Barcelona online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/131.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/131.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/131.png"
   },
   {
@@ -1193,7 +1193,7 @@
     "description": "Play Subway Surfers: Beijing online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/132.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/132.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/132.png"
   },
   {
@@ -1202,7 +1202,7 @@
     "description": "Play Subway Surfers: Berlin online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/133.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/133.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/133.png"
   },
   {
@@ -1211,7 +1211,7 @@
     "description": "Play Subway Surfers: Buenos Aires online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/134.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/134.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/134.png"
   },
   {
@@ -1220,7 +1220,7 @@
     "description": "Play Subway Surfers: Havana online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/135.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/135.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/135.png"
   },
   {
@@ -1229,7 +1229,7 @@
     "description": "Play Subway Surfers: Houston online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/136.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/136.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/136.png"
   },
   {
@@ -1238,7 +1238,7 @@
     "description": "Play Subway Surfers: Iceland online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/137.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/137.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/137.png"
   },
   {
@@ -1247,7 +1247,7 @@
     "description": "Play Subway Surfers: London online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/138.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/138.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/138.png"
   },
   {
@@ -1256,7 +1256,7 @@
     "description": "Play Subway Surfers: Mexico online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/139.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/139.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/139.png"
   },
   {
@@ -1265,7 +1265,7 @@
     "description": "Play Subway Surfers: Miami online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/140.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/140.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/140.png"
   },
   {
@@ -1274,7 +1274,7 @@
     "description": "Play Subway Surfers: Monaco online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/141.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/141.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/141.png"
   },
   {
@@ -1283,7 +1283,7 @@
     "description": "Play Subway Surfers: New Orleans online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/142.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/142.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/142.png"
   },
   {
@@ -1292,7 +1292,7 @@
     "description": "Play Subway Surfers: St. Petersburg online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/143.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/143.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/143.png"
   },
   {
@@ -1301,7 +1301,7 @@
     "description": "Play Subway Surfers: Winter Holiday online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/144.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/144.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/144.png"
   },
   {
@@ -1310,7 +1310,7 @@
     "description": "Play Subway Surfers: Zurich online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/145.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/145.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/145.png"
   },
   {
@@ -1319,7 +1319,7 @@
     "description": "Play 8 Ball Billiards Classic online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/146.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/146.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/146.png"
   },
   {
@@ -1328,7 +1328,7 @@
     "description": "Play CoolGames online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/147.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/147.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/147.png"
   },
   {
@@ -1337,7 +1337,7 @@
     "description": "Play Archery World Tour online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/148.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/148.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/148.png"
   },
   {
@@ -1346,7 +1346,7 @@
     "description": "Play Ball Blast HTML5 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/149.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/149.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/149.png"
   },
   {
@@ -1355,7 +1355,7 @@
     "description": "Play Cannon Balls 3D online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/150.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/150.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/150.png"
   },
   {
@@ -1364,7 +1364,7 @@
     "description": "Play Chess Classic online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/151.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/151.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/151.png"
   },
   {
@@ -1373,7 +1373,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/152.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/152.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/152.png"
   },
   {
@@ -1382,7 +1382,7 @@
     "description": "Play Flappy Dunk online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/153.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/153.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/153.png"
   },
   {
@@ -1391,7 +1391,7 @@
     "description": "Play ForkNSausage online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/154.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/154.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/154.png"
   },
   {
@@ -1400,7 +1400,7 @@
     "description": "Play Guess Their Answer online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/155.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/155.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/155.png"
   },
   {
@@ -1409,7 +1409,7 @@
     "description": "Play Harvest.io online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/156.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/156.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/156.png"
   },
   {
@@ -1418,7 +1418,7 @@
     "description": "Play HCR Lite 1.0 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/157.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/157.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/157.png"
   },
   {
@@ -1427,7 +1427,7 @@
     "description": "Play Pac-Man online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/158.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/158.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/158.png"
   },
   {
@@ -1436,7 +1436,7 @@
     "description": "Play Parking Rush online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/159.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/159.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/159.png"
   },
   {
@@ -1445,7 +1445,7 @@
     "description": "Play Race Master online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/160.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/160.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/160.png"
   },
   {
@@ -1454,7 +1454,7 @@
     "description": "Play state.io yt online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/161.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/161.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/161.png"
   },
   {
@@ -1463,7 +1463,7 @@
     "description": "Play Tower Crash 3D online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/162.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/162.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/162.png"
   },
   {
@@ -1472,7 +1472,7 @@
     "description": "Play Youtube Playable online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/163.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/163.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/163.png"
   },
   {
@@ -1481,7 +1481,7 @@
     "description": "Play CrazyCattle3D online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/164.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/164.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/164.png"
   },
   {
@@ -1490,7 +1490,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/165.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/165.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/165.png"
   },
   {
@@ -1499,7 +1499,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/166.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/166.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/166.png"
   },
   {
@@ -1508,7 +1508,7 @@
     "description": "Play Blade Ball online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/167.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/167.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/167.png"
   },
   {
@@ -1517,7 +1517,7 @@
     "description": "Play Game 168 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/168.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/168.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/168.png"
   },
   {
@@ -1526,7 +1526,7 @@
     "description": "Play Game 169 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/169.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/169.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/169.png"
   },
   {
@@ -1535,7 +1535,7 @@
     "description": "Play Big Tower Tiny Square 2 online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/170.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/170.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/170.png"
   },
   {
@@ -1544,7 +1544,7 @@
     "description": "Play Candy Crush online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/171.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/171.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/171.png"
   },
   {
@@ -1553,7 +1553,7 @@
     "description": "Play Melon Playground Game Files online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/172.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/172.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/172.png"
   },
   {
@@ -1562,7 +1562,7 @@
     "description": "Play Game 173 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/173.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/173.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/173.png"
   },
   {
@@ -1571,7 +1571,7 @@
     "description": "Play Game 174 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/174.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/174.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/174.png"
   },
   {
@@ -1580,7 +1580,7 @@
     "description": "Play Game 175 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/175.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/175.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/175.png"
   },
   {
@@ -1589,7 +1589,7 @@
     "description": "Play Game 176 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/176.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/176.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/176.png"
   },
   {
@@ -1598,7 +1598,7 @@
     "description": "Play Run 3 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/177.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/177.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/177.png"
   },
   {
@@ -1607,7 +1607,7 @@
     "description": "Play Game 178 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/178.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/178.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/178.png"
   },
   {
@@ -1616,7 +1616,7 @@
     "description": "Play Soundboard online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/179.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/179.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/179.png"
   },
   {
@@ -1625,7 +1625,7 @@
     "description": "Play n-gon online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/180.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/180.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/180.png"
   },
   {
@@ -1634,7 +1634,7 @@
     "description": "Play Minecraft 1.8.8 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/181.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/181.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/181.png"
   },
   {
@@ -1643,7 +1643,7 @@
     "description": "Play Minecraft 1.12.2 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/182.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/182.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/182.png"
   },
   {
@@ -1652,7 +1652,7 @@
     "description": "Play Minecraft Web Client online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/183.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/183.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/183.png"
   },
   {
@@ -1661,7 +1661,7 @@
     "description": "Play UNDERTALE online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/184.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/184.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/184.png"
   },
   {
@@ -1670,7 +1670,7 @@
     "description": "Play Five Nights at Freddy's Sister Location online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/185.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/185.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/185.png"
   },
   {
@@ -1679,7 +1679,7 @@
     "description": "Play Ragdoll Archers online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/186.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/186.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/186.png"
   },
   {
@@ -1688,7 +1688,7 @@
     "description": "Play Game 187 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/187.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/187.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/187.png"
   },
   {
@@ -1697,7 +1697,7 @@
     "description": "Play Scrap Metal 3 Infernal Trap online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/188.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/188.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/188.png"
   },
   {
@@ -1706,7 +1706,7 @@
     "description": "Play Doki Doki Literature Club! (Ren'Py Mod) online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/189.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/189.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/189.png"
   },
   {
@@ -1715,7 +1715,7 @@
     "description": "Play Five Nights at Freddy's World online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/190.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/190.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/190.png"
   },
   {
@@ -1724,7 +1724,7 @@
     "description": "Play Five Nights at Freddy's Pizzeria Simulator online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/191.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/191.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/191.png"
   },
   {
@@ -1733,7 +1733,7 @@
     "description": "Play Five Nights at Freddy's UCN online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/192.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/192.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/192.png"
   },
   {
@@ -1742,7 +1742,7 @@
     "description": "Play Do NOT Take This Cat Home online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/193.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/193.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/193.png"
   },
   {
@@ -1751,7 +1751,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/194.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/194.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/194.png"
   },
   {
@@ -1760,7 +1760,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/195.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/195.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/195.png"
   },
   {
@@ -1769,7 +1769,7 @@
     "description": "Play Game 196 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/196.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/196.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/196.png"
   },
   {
@@ -1778,7 +1778,7 @@
     "description": "Play Elastic Face online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/197.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/197.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/197.png"
   },
   {
@@ -1787,7 +1787,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/198.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/198.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/198.png"
   },
   {
@@ -1796,7 +1796,7 @@
     "description": "Play Time Shooter online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/199.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/199.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/199.png"
   },
   {
@@ -1805,7 +1805,7 @@
     "description": "Play Time Shooter 2 online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/200.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/200.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/200.png"
   },
   {
@@ -1814,7 +1814,7 @@
     "description": "Play Time Shooter 3 SWAT online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/201.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/201.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/201.png"
   },
   {
@@ -1823,7 +1823,7 @@
     "description": "Play Carrom Clash online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/202.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/202.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/202.png"
   },
   {
@@ -1832,7 +1832,7 @@
     "description": "Play Game 203 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/203.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/203.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/203.png"
   },
   {
@@ -1841,7 +1841,7 @@
     "description": "Play Five Nights at Winston's online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/204.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/204.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/204.png"
   },
   {
@@ -1850,7 +1850,7 @@
     "description": "Play Buckshot Roulette online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/205.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/205.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/205.png"
   },
   {
@@ -1859,7 +1859,7 @@
     "description": "Play Tunnel Rush online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/206.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/206.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/206.png"
   },
   {
@@ -1868,7 +1868,7 @@
     "description": "Play SnowBattle.io online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/207.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/207.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/207.png"
   },
   {
@@ -1877,7 +1877,7 @@
     "description": "Play Rolly Vortex online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/208.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/208.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/208.png"
   },
   {
@@ -1886,7 +1886,7 @@
     "description": "Play Draw the Hill online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/209.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/209.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/209.png"
   },
   {
@@ -1895,7 +1895,7 @@
     "description": "Play Dragon Vs Bricks online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/210.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/210.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/210.png"
   },
   {
@@ -1904,7 +1904,7 @@
     "description": "Play Death Run 3D online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/211.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/211.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/211.png"
   },
   {
@@ -1913,7 +1913,7 @@
     "description": "Play Cut the Rope online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/212.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/212.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/212.png"
   },
   {
@@ -1922,7 +1922,7 @@
     "description": "Play Cut the Rope: Time Travel online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/213.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/213.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/213.png"
   },
   {
@@ -1931,7 +1931,7 @@
     "description": "Play Cut the Rope: Holiday Gift online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/214.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/214.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/214.png"
   },
   {
@@ -1940,7 +1940,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/215.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/215.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/215.png"
   },
   {
@@ -1949,7 +1949,7 @@
     "description": "Play That's not my neighbor online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/216.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/216.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/216.png"
   },
   {
@@ -1958,7 +1958,7 @@
     "description": "Play hotline miami online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/217.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/217.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/217.png"
   },
   {
@@ -1967,7 +1967,7 @@
     "description": "Play Game 218 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/218.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/218.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/218.png"
   },
   {
@@ -1976,7 +1976,7 @@
     "description": "Play Game 219 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/219.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/219.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/219.png"
   },
   {
@@ -1985,7 +1985,7 @@
     "description": "Play Game 220 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/220.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/220.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/220.png"
   },
   {
@@ -1994,7 +1994,7 @@
     "description": "Play Game 221 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/221.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/221.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/221.png"
   },
   {
@@ -2003,7 +2003,7 @@
     "description": "Play Game 222 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/222.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/222.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/222.png"
   },
   {
@@ -2012,7 +2012,7 @@
     "description": "Play Game 223 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/223.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/223.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/223.png"
   },
   {
@@ -2021,7 +2021,7 @@
     "description": "Play Game 224 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/224.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/224.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/224.png"
   },
   {
@@ -2030,7 +2030,7 @@
     "description": "Play Game 225 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/225.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/225.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/225.png"
   },
   {
@@ -2039,7 +2039,7 @@
     "description": "Play Game 226 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/226.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/226.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/226.png"
   },
   {
@@ -2048,7 +2048,7 @@
     "description": "Play Game 227 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/227.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/227.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/227.png"
   },
   {
@@ -2057,7 +2057,7 @@
     "description": "Play Game 228 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/228.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/228.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/228.png"
   },
   {
@@ -2066,7 +2066,7 @@
     "description": "Play Game 229 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/229.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/229.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/229.png"
   },
   {
@@ -2075,7 +2075,7 @@
     "description": "Play Game 230 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/230.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/230.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/230.png"
   },
   {
@@ -2084,7 +2084,7 @@
     "description": "Play Game 231 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/231.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/231.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/231.png"
   },
   {
@@ -2093,7 +2093,7 @@
     "description": "Play Game 232 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/232.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/232.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/232.png"
   },
   {
@@ -2102,7 +2102,7 @@
     "description": "Play SUPERHOT online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/233.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/233.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/233.png"
   },
   {
@@ -2111,7 +2111,7 @@
     "description": "Play Game 234 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/234.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/234.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/234.png"
   },
   {
@@ -2120,7 +2120,7 @@
     "description": "Play Game 235 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/235.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/235.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/235.png"
   },
   {
@@ -2129,7 +2129,7 @@
     "description": "Play Game 236 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/236.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/236.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/236.png"
   },
   {
@@ -2138,7 +2138,7 @@
     "description": "Play Game 237 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/237.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/237.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/237.png"
   },
   {
@@ -2147,7 +2147,7 @@
     "description": "Play Game 238 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/238.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/238.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/238.png"
   },
   {
@@ -2156,7 +2156,7 @@
     "description": "Play Game 239 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/239.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/239.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/239.png"
   },
   {
@@ -2165,7 +2165,7 @@
     "description": "Play Game 240 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/240.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/240.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/240.png"
   },
   {
@@ -2174,7 +2174,7 @@
     "description": "Play Game 241 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/241.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/241.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/241.png"
   },
   {
@@ -2183,7 +2183,7 @@
     "description": "Play Game 242 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/242.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/242.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/242.png"
   },
   {
@@ -2192,7 +2192,7 @@
     "description": "Play Game 243 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/243.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/243.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/243.png"
   },
   {
@@ -2201,7 +2201,7 @@
     "description": "Play Game 244 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/244.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/244.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/244.png"
   },
   {
@@ -2210,7 +2210,7 @@
     "description": "Play Game 245 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/245.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/245.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/245.png"
   },
   {
@@ -2219,7 +2219,7 @@
     "description": "Play Game 246 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/246.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/246.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/246.png"
   },
   {
@@ -2228,7 +2228,7 @@
     "description": "Play Game 247 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/247.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/247.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/247.png"
   },
   {
@@ -2237,7 +2237,7 @@
     "description": "Play Game 248 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/248.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/248.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/248.png"
   },
   {
@@ -2246,7 +2246,7 @@
     "description": "Play Game 249 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/249.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/249.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/249.png"
   },
   {
@@ -2255,7 +2255,7 @@
     "description": "Play Game 250 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/250.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/250.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/250.png"
   },
   {
@@ -2264,7 +2264,7 @@
     "description": "Play Game 251 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/251.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/251.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/251.png"
   },
   {
@@ -2273,7 +2273,7 @@
     "description": "Play Game 252 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/252.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/252.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/252.png"
   },
   {
@@ -2282,7 +2282,7 @@
     "description": "Play Game 253 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/253.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/253.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/253.png"
   },
   {
@@ -2291,7 +2291,7 @@
     "description": "Play Game 254 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/254.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/254.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/254.png"
   },
   {
@@ -2300,7 +2300,7 @@
     "description": "Play CrazyChicken3D online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/255.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/255.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/255.png"
   },
   {
@@ -2309,7 +2309,7 @@
     "description": "Play CrazyKitty3D online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/256.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/256.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/256.png"
   },
   {
@@ -2318,7 +2318,7 @@
     "description": "Play Game 257 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/257.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/257.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/257.png"
   },
   {
@@ -2327,7 +2327,7 @@
     "description": "Play ABaF online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/258.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/258.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/258.png"
   },
   {
@@ -2336,7 +2336,7 @@
     "description": "Play Class of '09 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/259.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/259.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/259.png"
   },
   {
@@ -2345,7 +2345,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/260.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/260.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/260.png"
   },
   {
@@ -2354,7 +2354,7 @@
     "description": "Play Fruit Ninja online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/261.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/261.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/261.png"
   },
   {
@@ -2363,7 +2363,7 @@
     "description": "Play Xash online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/262.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/262.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/262.png"
   },
   {
@@ -2372,7 +2372,7 @@
     "description": "Play Quake III Arena online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/263.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/263.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/263.png"
   },
   {
@@ -2381,7 +2381,7 @@
     "description": "Play Escape Road online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/264.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/264.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/264.png"
   },
   {
@@ -2390,7 +2390,7 @@
     "description": "Play Escape-Road-2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/265.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/265.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/265.png"
   },
   {
@@ -2399,7 +2399,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/266.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/266.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/266.png"
   },
   {
@@ -2408,7 +2408,7 @@
     "description": "Play Pizza Tower 1.1.0 Web Port online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/267.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/267.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/267.png"
   },
   {
@@ -2417,7 +2417,7 @@
     "description": "Play Game 268 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/268.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/268.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/268.png"
   },
   {
@@ -2426,7 +2426,7 @@
     "description": "Play Bad Ice Cream online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/269.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/269.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/269.png"
   },
   {
@@ -2435,7 +2435,7 @@
     "description": "Play Bad Ice Cream 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/270.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/270.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/270.png"
   },
   {
@@ -2444,7 +2444,7 @@
     "description": "Play Bad Ice Cream 3 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/271.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/271.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/271.png"
   },
   {
@@ -2453,7 +2453,7 @@
     "description": "Play Basketball Stars online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/272.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/272.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/272.png"
   },
   {
@@ -2462,7 +2462,7 @@
     "description": "Play Blockpost online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/273.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/273.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/273.png"
   },
   {
@@ -2471,7 +2471,7 @@
     "description": "Play circloO online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/274.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/274.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/274.png"
   },
   {
@@ -2480,7 +2480,7 @@
     "description": "Play circloO 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/275.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/275.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/275.png"
   },
   {
@@ -2489,7 +2489,7 @@
     "description": "Play Drift Boss online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/276.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/276.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/276.png"
   },
   {
@@ -2498,7 +2498,7 @@
     "description": "Play Evil Glitch online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/277.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/277.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/277.png"
   },
   {
@@ -2507,7 +2507,7 @@
     "description": "Play Madalin Stunt Cars 2 online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/278.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/278.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/278.png"
   },
   {
@@ -2516,7 +2516,7 @@
     "description": "Play Madalin Stunt Cars 3 online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/279.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/279.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/279.png"
   },
   {
@@ -2525,7 +2525,7 @@
     "description": "Play Papery Planes online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/280.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/280.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/280.png"
   },
   {
@@ -2534,7 +2534,7 @@
     "description": "Play Pixel Gun Survival online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/281.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/281.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/281.png"
   },
   {
@@ -2543,7 +2543,7 @@
     "description": "Play Protektor online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/282.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/282.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/282.png"
   },
   {
@@ -2552,7 +2552,7 @@
     "description": "Play Rooftop Snipers online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/283.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/283.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/283.png"
   },
   {
@@ -2561,7 +2561,7 @@
     "description": "Play Knights Arena online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/284.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/284.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/284.png"
   },
   {
@@ -2570,7 +2570,7 @@
     "description": "Play Basket Bros online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/285.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/285.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/285.png"
   },
   {
@@ -2579,7 +2579,7 @@
     "description": "Play Endoparasitic online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/286.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/286.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/286.png"
   },
   {
@@ -2588,7 +2588,7 @@
     "description": "Play Game 287 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/287.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/287.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/287.png"
   },
   {
@@ -2597,7 +2597,7 @@
     "description": "Play Game 288 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/288.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/288.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/288.png"
   },
   {
@@ -2606,7 +2606,7 @@
     "description": "Play Game 289 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/289.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/289.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/289.png"
   },
   {
@@ -2615,7 +2615,7 @@
     "description": "Play Game 290 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/290.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/290.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/290.png"
   },
   {
@@ -2624,7 +2624,7 @@
     "description": "Play Game 291 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/291.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/291.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/291.png"
   },
   {
@@ -2633,7 +2633,7 @@
     "description": "Play Game 292 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/292.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/292.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/292.png"
   },
   {
@@ -2642,7 +2642,7 @@
     "description": "Play Game 293 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/293.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/293.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/293.png"
   },
   {
@@ -2651,7 +2651,7 @@
     "description": "Play Idle Dice online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/294.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/294.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/294.png"
   },
   {
@@ -2660,7 +2660,7 @@
     "description": "Play Game 295 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/295.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/295.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/295.png"
   },
   {
@@ -2669,7 +2669,7 @@
     "description": "Play Play!.js online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/296.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/296.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/296.png"
   },
   {
@@ -2678,7 +2678,7 @@
     "description": "Play Minecraft 1.5.2 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/297.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/297.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/297.png"
   },
   {
@@ -2687,7 +2687,7 @@
     "description": "Play Minecraft Alpha 1.2.6 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/298.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/298.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/298.png"
   },
   {
@@ -2696,7 +2696,7 @@
     "description": "Play Minecraft b1.3 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/299.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/299.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/299.png"
   },
   {
@@ -2705,7 +2705,7 @@
     "description": "Play Minecraft Beta 1.7.3 online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/300.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/300.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/300.png"
   },
   {
@@ -2714,7 +2714,7 @@
     "description": "Play Minecraft Indev online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/301.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/301.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/301.png"
   },
   {
@@ -2723,7 +2723,7 @@
     "description": "Play Little Runmo - The Game 1.3 online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/302.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/302.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/302.png"
   },
   {
@@ -2732,7 +2732,7 @@
     "description": "Play Territorial.io online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/303.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/303.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/303.png"
   },
   {
@@ -2741,7 +2741,7 @@
     "description": "Play Game 304 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/304.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/304.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/304.png"
   },
   {
@@ -2750,7 +2750,7 @@
     "description": "Play Game 305 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/305.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/305.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/305.png"
   },
   {
@@ -2759,7 +2759,7 @@
     "description": "Play Shipo - v10.1 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/306.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/306.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/306.png"
   },
   {
@@ -2768,7 +2768,7 @@
     "description": "Play Rainbow Obby v0.3x online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/307.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/307.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/307.png"
   },
   {
@@ -2777,7 +2777,7 @@
     "description": "Play NZ: Portable online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/308.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/308.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/308.png"
   },
   {
@@ -2786,7 +2786,7 @@
     "description": "Play Sandboxels - Experiment with Pixels online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/309.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/309.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/309.png"
   },
   {
@@ -2795,7 +2795,7 @@
     "description": "Play Dreadhead Parkour online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/310.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/310.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/310.png"
   },
   {
@@ -2804,7 +2804,7 @@
     "description": "Play SANDTRIS online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/311.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/311.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/311.png"
   },
   {
@@ -2813,7 +2813,7 @@
     "description": "Play BlackJack Game Online online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/312.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/312.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/312.png"
   },
   {
@@ -2822,7 +2822,7 @@
     "description": "Play Game 313 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/313.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/313.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/313.png"
   },
   {
@@ -2831,7 +2831,7 @@
     "description": "Play Game 314 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/314.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/314.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/314.png"
   },
   {
@@ -2840,7 +2840,7 @@
     "description": "Play Jelly Mario online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/315.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/315.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/315.png"
   },
   {
@@ -2849,7 +2849,7 @@
     "description": "Play Angry Birds Chrome online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/316.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/316.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/316.png"
   },
   {
@@ -2858,7 +2858,7 @@
     "description": "Play sandspiel online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/317.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/317.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/317.png"
   },
   {
@@ -2867,7 +2867,7 @@
     "description": "Play Unity Web Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/318.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/318.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/318.png"
   },
   {
@@ -2876,7 +2876,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/319.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/319.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/319.png"
   },
   {
@@ -2885,7 +2885,7 @@
     "description": "Play 3D Bowling online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/320.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/320.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/320.png"
   },
   {
@@ -2894,7 +2894,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/321.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/321.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/321.png"
   },
   {
@@ -2903,7 +2903,7 @@
     "description": "Play Sushi Roll online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/322.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/322.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/322.png"
   },
   {
@@ -2912,7 +2912,7 @@
     "description": "Play Game 323 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/323.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/323.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/323.png"
   },
   {
@@ -2921,7 +2921,7 @@
     "description": "Play Maze Speedrun online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/324.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/324.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/324.png"
   },
   {
@@ -2930,7 +2930,7 @@
     "description": "Play Kitchen Bazar online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/325.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/325.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/325.png"
   },
   {
@@ -2939,7 +2939,7 @@
     "description": "Play Game 326 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/326.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/326.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/326.png"
   },
   {
@@ -2948,7 +2948,7 @@
     "description": "Play Cocos Creator online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/327.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/327.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/327.png"
   },
   {
@@ -2957,7 +2957,7 @@
     "description": "Play Om Nom Run online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/328.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/328.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/328.png"
   },
   {
@@ -2966,7 +2966,7 @@
     "description": "Play Tiletopia online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/329.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/329.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/329.png"
   },
   {
@@ -2975,7 +2975,7 @@
     "description": "Play Bit Planes online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/330.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/330.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/330.png"
   },
   {
@@ -2984,7 +2984,7 @@
     "description": "Play Crazy Cars! online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/331.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/331.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/331.png"
   },
   {
@@ -2993,7 +2993,7 @@
     "description": "Play Going Balls online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/332.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/332.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/332.png"
   },
   {
@@ -3002,7 +3002,7 @@
     "description": "Play Game 333 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/333.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/333.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/333.png"
   },
   {
@@ -3011,7 +3011,7 @@
     "description": "Play Game 334 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/334.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/334.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/334.png"
   },
   {
@@ -3020,7 +3020,7 @@
     "description": "Play Game 335 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/335.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/335.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/335.png"
   },
   {
@@ -3029,7 +3029,7 @@
     "description": "Play Game 336 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/336.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/336.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/336.png"
   },
   {
@@ -3038,7 +3038,7 @@
     "description": "Play Game 337 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/337.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/337.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/337.png"
   },
   {
@@ -3047,7 +3047,7 @@
     "description": "Play Game 338 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/338.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/338.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/338.png"
   },
   {
@@ -3056,7 +3056,7 @@
     "description": "Play Game 339 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/339.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/339.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/339.png"
   },
   {
@@ -3065,7 +3065,7 @@
     "description": "Play Game 340 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/340.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/340.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/340.png"
   },
   {
@@ -3074,7 +3074,7 @@
     "description": "Play Game 341 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/341.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/341.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/341.png"
   },
   {
@@ -3083,7 +3083,7 @@
     "description": "Play Game 342 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/342.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/342.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/342.png"
   },
   {
@@ -3092,7 +3092,7 @@
     "description": "Play Game 343 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/343.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/343.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/343.png"
   },
   {
@@ -3101,7 +3101,7 @@
     "description": "Play Game 344 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/344.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/344.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/344.png"
   },
   {
@@ -3110,7 +3110,7 @@
     "description": "Play Game 345 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/345.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/345.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/345.png"
   },
   {
@@ -3119,7 +3119,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/346.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/346.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/346.png"
   },
   {
@@ -3128,7 +3128,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/347.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/347.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/347.png"
   },
   {
@@ -3137,7 +3137,7 @@
     "description": "Play Game 348 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/348.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/348.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/348.png"
   },
   {
@@ -3146,7 +3146,7 @@
     "description": "Play Game 349 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/349.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/349.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/349.png"
   },
   {
@@ -3155,7 +3155,7 @@
     "description": "Play Game 350 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/350.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/350.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/350.png"
   },
   {
@@ -3164,7 +3164,7 @@
     "description": "Play happy sheepies online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/351.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/351.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/351.png"
   },
   {
@@ -3173,7 +3173,7 @@
     "description": "Play DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/352.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/352.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/352.png"
   },
   {
@@ -3182,7 +3182,7 @@
     "description": "Play Blumgi Rocket online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/353.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/353.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/353.png"
   },
   {
@@ -3191,7 +3191,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/354.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/354.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/354.png"
   },
   {
@@ -3200,7 +3200,7 @@
     "description": "Play Dadish 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/355.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/355.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/355.png"
   },
   {
@@ -3209,7 +3209,7 @@
     "description": "Play Dadish 3 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/356.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/356.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/356.png"
   },
   {
@@ -3218,7 +3218,7 @@
     "description": "Play Dadish online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/357.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/357.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/357.png"
   },
   {
@@ -3227,7 +3227,7 @@
     "description": "Play Game 358 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/358.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/358.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/358.png"
   },
   {
@@ -3236,7 +3236,7 @@
     "description": "Play Game 359 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/359.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/359.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/359.png"
   },
   {
@@ -3245,7 +3245,7 @@
     "description": "Play EvoWars.io online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/360.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/360.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/360.png"
   },
   {
@@ -3254,7 +3254,7 @@
     "description": "Play Google Feud online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/361.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/361.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/361.png"
   },
   {
@@ -3263,7 +3263,7 @@
     "description": "Play Idle breakout online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/362.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/362.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/362.png"
   },
   {
@@ -3272,7 +3272,7 @@
     "description": "Play Idle Lumber Inc online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/363.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/363.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/363.png"
   },
   {
@@ -3281,7 +3281,7 @@
     "description": "Play Idle Mining Empire online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/364.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/364.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/364.png"
   },
   {
@@ -3290,7 +3290,7 @@
     "description": "Play Just Fall online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/365.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/365.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/365.png"
   },
   {
@@ -3299,7 +3299,7 @@
     "description": "Play Merge Harvest online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/366.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/366.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/366.png"
   },
   {
@@ -3308,7 +3308,7 @@
     "description": "Play Parking Fury 3D online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/367.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/367.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/367.png"
   },
   {
@@ -3317,7 +3317,7 @@
     "description": "Play Slope 2 online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/368.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/368.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/368.png"
   },
   {
@@ -3326,7 +3326,7 @@
     "description": "Play Game 369 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/369.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/369.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/369.png"
   },
   {
@@ -3335,7 +3335,7 @@
     "description": "Play Smash Karts online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/370.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/370.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/370.png"
   },
   {
@@ -3344,7 +3344,7 @@
     "description": "Play Stickman Fight Ragdoll online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/371.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/371.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/371.png"
   },
   {
@@ -3353,7 +3353,7 @@
     "description": "Play Stickman Boost online",
     "creator": "Various",
     "category": "Platform",
-    "url": "/games/372.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/372.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/372.png"
   },
   {
@@ -3362,7 +3362,7 @@
     "description": "Play Stickman Climb online",
     "creator": "Various",
     "category": "Platform",
-    "url": "/games/373.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/373.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/373.png"
   },
   {
@@ -3371,7 +3371,7 @@
     "description": "Play Super Stickman Golf online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/374.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/374.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/374.png"
   },
   {
@@ -3380,7 +3380,7 @@
     "description": "Play Game online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/375.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/375.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/375.png"
   },
   {
@@ -3389,7 +3389,7 @@
     "description": "Play Game 376 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/376.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/376.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/376.png"
   },
   {
@@ -3398,7 +3398,7 @@
     "description": "Play Game 377 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/377.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/377.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/377.png"
   },
   {
@@ -3407,7 +3407,7 @@
     "description": "Play Game 378 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/378.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/378.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/378.png"
   },
   {
@@ -3416,7 +3416,7 @@
     "description": "Play Game 379 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/379.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/379.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/379.png"
   },
   {
@@ -3425,7 +3425,7 @@
     "description": "Play countrydefense3d online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/380.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/380.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/380.png"
   },
   {
@@ -3434,7 +3434,7 @@
     "description": "Play ClothingShop online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/381.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/381.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/381.png"
   },
   {
@@ -3443,7 +3443,7 @@
     "description": "Play Runner Template online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/382.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/382.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/382.png"
   },
   {
@@ -3452,7 +3452,7 @@
     "description": "Play Game 383 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/383.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/383.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/383.png"
   },
   {
@@ -3461,7 +3461,7 @@
     "description": "Play Runner Template online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/384.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/384.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/384.png"
   },
   {
@@ -3470,7 +3470,7 @@
     "description": "Play Game 385 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/385.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/385.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/385.png"
   },
   {
@@ -3479,7 +3479,7 @@
     "description": "Play Game 386 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/386.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/386.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/386.png"
   },
   {
@@ -3488,7 +3488,7 @@
     "description": "Play DrawJoust online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/387.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/387.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/387.png"
   },
   {
@@ -3497,7 +3497,7 @@
     "description": "Play Game 388 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/388.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/388.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/388.png"
   },
   {
@@ -3506,7 +3506,7 @@
     "description": "Play ElementalMasters online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/389.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/389.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/389.png"
   },
   {
@@ -3515,7 +3515,7 @@
     "description": "Play My Fitness Club online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/390.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/390.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/390.png"
   },
   {
@@ -3524,7 +3524,7 @@
     "description": "Play Game 391 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/391.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/391.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/391.png"
   },
   {
@@ -3533,7 +3533,7 @@
     "description": "Play Game 392 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/392.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/392.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/392.png"
   },
   {
@@ -3542,7 +3542,7 @@
     "description": "Play Game 393 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/393.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/393.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/393.png"
   },
   {
@@ -3551,7 +3551,7 @@
     "description": "Play Game 394 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/394.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/394.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/394.png"
   },
   {
@@ -3560,7 +3560,7 @@
     "description": "Play GunBuild online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/395.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/395.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/395.png"
   },
   {
@@ -3569,7 +3569,7 @@
     "description": "Play Game 396 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/396.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/396.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/396.png"
   },
   {
@@ -3578,7 +3578,7 @@
     "description": "Play Game 397 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/397.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/397.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/397.png"
   },
   {
@@ -3587,7 +3587,7 @@
     "description": "Play Game 398 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/398.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/398.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/398.png"
   },
   {
@@ -3596,7 +3596,7 @@
     "description": "Play Game 399 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/399.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/399.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/399.png"
   },
   {
@@ -3605,7 +3605,7 @@
     "description": "Play Game 400 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/400.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/400.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/400.png"
   },
   {
@@ -3614,7 +3614,7 @@
     "description": "Play Game 401 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/401.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/401.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/401.png"
   },
   {
@@ -3623,7 +3623,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/402.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/402.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/402.png"
   },
   {
@@ -3632,7 +3632,7 @@
     "description": "Play Game 403 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/403.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/403.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/403.png"
   },
   {
@@ -3641,7 +3641,7 @@
     "description": "Play Game 404 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/404.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/404.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/404.png"
   },
   {
@@ -3650,7 +3650,7 @@
     "description": "Play Game 405 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/405.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/405.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/405.png"
   },
   {
@@ -3659,7 +3659,7 @@
     "description": "Play Supermarket 3D online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/406.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/406.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/406.png"
   },
   {
@@ -3668,7 +3668,7 @@
     "description": "Play Game 407 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/407.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/407.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/407.png"
   },
   {
@@ -3677,7 +3677,7 @@
     "description": "Play Telekinesis Master online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/408.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/408.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/408.png"
   },
   {
@@ -3686,7 +3686,7 @@
     "description": "Play Telekinesis Quest online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/409.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/409.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/409.png"
   },
   {
@@ -3695,7 +3695,7 @@
     "description": "Play Telekinesis Car 3D online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/410.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/410.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/410.png"
   },
   {
@@ -3704,7 +3704,7 @@
     "description": "Play Force Race online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/411.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/411.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/411.png"
   },
   {
@@ -3713,7 +3713,7 @@
     "description": "Play Game 412 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/412.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/412.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/412.png"
   },
   {
@@ -3722,7 +3722,7 @@
     "description": "Play Tug of War online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/413.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/413.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/413.png"
   },
   {
@@ -3731,7 +3731,7 @@
     "description": "Play Runner Template online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/414.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/414.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/414.png"
   },
   {
@@ -3740,7 +3740,7 @@
     "description": "Play Game 415 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/415.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/415.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/415.png"
   },
   {
@@ -3749,7 +3749,7 @@
     "description": "Play Game 416 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/416.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/416.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/416.png"
   },
   {
@@ -3758,7 +3758,7 @@
     "description": "Play Game 417 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/417.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/417.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/417.png"
   },
   {
@@ -3767,7 +3767,7 @@
     "description": "Play Game 418 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/418.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/418.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/418.png"
   },
   {
@@ -3776,7 +3776,7 @@
     "description": "Play Weapon Upgrade Rush online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/419.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/419.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/419.png"
   },
   {
@@ -3785,7 +3785,7 @@
     "description": "Play wheel-scale online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/420.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/420.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/420.png"
   },
   {
@@ -3794,7 +3794,7 @@
     "description": "Play RunRich online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/421.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/421.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/421.png"
   },
   {
@@ -3803,7 +3803,7 @@
     "description": "Play HighHeels online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/422.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/422.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/422.png"
   },
   {
@@ -3812,7 +3812,7 @@
     "description": "Play autumn_webfishing_main online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/423.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/423.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/423.png"
   },
   {
@@ -3821,7 +3821,7 @@
     "description": "Play BFDI: Branches online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/424.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/424.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/424.png"
   },
   {
@@ -3830,7 +3830,7 @@
     "description": "Play Game 425 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/425.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/425.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/425.png"
   },
   {
@@ -3839,7 +3839,7 @@
     "description": "Play Andy's Apple Farm online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/426.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/426.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/426.png"
   },
   {
@@ -3848,7 +3848,7 @@
     "description": "Play OMORI online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/427.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/427.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/427.png"
   },
   {
@@ -3857,7 +3857,7 @@
     "description": "Play Five Nights at Freddy's 4 Halloween online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/428.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/428.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/428.png"
   },
   {
@@ -3866,7 +3866,7 @@
     "description": "Play gn code editor online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/429.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/429.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/429.png"
   },
   {
@@ -3875,7 +3875,7 @@
     "description": "Play 10 Minutes Till Dawn online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/430.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/430.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/430.png"
   },
   {
@@ -3884,7 +3884,7 @@
     "description": "Play Game 431 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/431.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/431.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/431.png"
   },
   {
@@ -3893,7 +3893,7 @@
     "description": "Play Abandoned online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/432.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/432.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/432.png"
   },
   {
@@ -3902,7 +3902,7 @@
     "description": "Play Yume Nikki online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/433.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/433.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/433.png"
   },
   {
@@ -3911,7 +3911,7 @@
     "description": "Play God's Flesh online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/434.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/434.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/434.png"
   },
   {
@@ -3920,7 +3920,7 @@
     "description": "Play Game 435 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/435.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/435.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/435.png"
   },
   {
@@ -3929,7 +3929,7 @@
     "description": "Play Abandoned online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/436.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/436.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/436.png"
   },
   {
@@ -3938,7 +3938,7 @@
     "description": "Play Bouncemasters online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/437.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/437.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/437.png"
   },
   {
@@ -3947,7 +3947,7 @@
     "description": "Play Abandoned online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/438.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/438.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/438.png"
   },
   {
@@ -3956,7 +3956,7 @@
     "description": "Play Game 439 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/439.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/439.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/439.png"
   },
   {
@@ -3965,7 +3965,7 @@
     "description": "Play PICO-8 Cartridge online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/440.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/440.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/440.png"
   },
   {
@@ -3974,7 +3974,7 @@
     "description": "Play KittyToy online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/441.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/441.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/441.png"
   },
   {
@@ -3983,7 +3983,7 @@
     "description": "Play PICO-8 Cartridge online",
     "creator": "Various",
     "category": "Racing",
-    "url": "/games/442.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/442.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/442.png"
   },
   {
@@ -3992,7 +3992,7 @@
     "description": "Play Adventure Drivers online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/443.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/443.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/443.png"
   },
   {
@@ -4001,7 +4001,7 @@
     "description": "Play Ages of Conflict online",
     "creator": "Various",
     "category": "Strategy",
-    "url": "/games/444.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/444.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/444.png"
   },
   {
@@ -4010,7 +4010,7 @@
     "description": "Play gn-math.github.io online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/445.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/445.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/445.png"
   },
   {
@@ -4019,7 +4019,7 @@
     "description": "Play gn-math.github.io online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/446.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/446.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/446.png"
   },
   {
@@ -4028,7 +4028,7 @@
     "description": "Play Nijika's Ahoge online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/447.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/447.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/447.png"
   },
   {
@@ -4037,7 +4037,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/448.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/448.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/448.png"
   },
   {
@@ -4046,7 +4046,7 @@
     "description": "Play YT Game Wrapper WebGL Template online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/449.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/449.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/449.png"
   },
   {
@@ -4055,7 +4055,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/450.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/450.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/450.png"
   },
   {
@@ -4064,7 +4064,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/451.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/451.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/451.png"
   },
   {
@@ -4073,7 +4073,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/452.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/452.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/452.png"
   },
   {
@@ -4082,7 +4082,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/453.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/453.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/453.png"
   },
   {
@@ -4091,7 +4091,7 @@
     "description": "Play BLOODMONEY! online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/454.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/454.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/454.png"
   },
   {
@@ -4100,7 +4100,7 @@
     "description": "Play BERGENTRUCK_201X online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/455.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/455.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/455.png"
   },
   {
@@ -4109,7 +4109,7 @@
     "description": "Play UNDERTALE YELLOW online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/456.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/456.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/456.png"
   },
   {
@@ -4118,7 +4118,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/457.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/457.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/457.png"
   },
   {
@@ -4127,7 +4127,7 @@
     "description": "Play The Deadseat online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/458.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/458.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/458.png"
   },
   {
@@ -4136,7 +4136,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/459.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/459.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/459.png"
   },
   {
@@ -4145,7 +4145,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/460.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/460.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/460.png"
   },
   {
@@ -4154,7 +4154,7 @@
     "description": "Play slither.io online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/461.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/461.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/461.png"
   },
   {
@@ -4163,7 +4163,7 @@
     "description": "Play DEAD PLATE online",
     "creator": "Various",
     "category": "Horror",
-    "url": "/games/462.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/462.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/462.png"
   },
   {
@@ -4172,7 +4172,7 @@
     "description": "Play Lacey's Flash Games online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/463.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/463.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/463.png"
   },
   {
@@ -4181,7 +4181,7 @@
     "description": "Play ChoppyOrc online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/464.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/464.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/464.png"
   },
   {
@@ -4190,7 +4190,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/465.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/465.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/465.png"
   },
   {
@@ -4199,7 +4199,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/466.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/466.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/466.png"
   },
   {
@@ -4208,7 +4208,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/467.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/467.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/467.png"
   },
   {
@@ -4217,7 +4217,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/468.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/468.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/468.png"
   },
   {
@@ -4226,7 +4226,7 @@
     "description": "Play Sandstone online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/469.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/469.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/469.png"
   },
   {
@@ -4235,7 +4235,7 @@
     "description": "Play HTML5 Doodle Jump online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/470.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/470.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/470.png"
   },
   {
@@ -4244,7 +4244,7 @@
     "description": "Play Abandoned online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/471.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/471.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/471.png"
   },
   {
@@ -4253,7 +4253,7 @@
     "description": "Play Bad Time Simulator (Sans Fight) online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/472.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/472.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/472.png"
   },
   {
@@ -4262,7 +4262,7 @@
     "description": "Play SPACEBAR CLICKER online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/473.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/473.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/473.png"
   },
   {
@@ -4271,7 +4271,7 @@
     "description": "Play Friday Night Funkin' online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/474.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/474.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/474.png"
   },
   {
@@ -4280,7 +4280,7 @@
     "description": "Play Friday Night Funkin' online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/475.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/475.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/475.png"
   },
   {
@@ -4289,7 +4289,7 @@
     "description": "Play Friday Night Funkin' online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/476.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/476.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/476.png"
   },
   {
@@ -4298,7 +4298,7 @@
     "description": "Play Friday Night Funkin' + Hatsune Miku online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/477.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/477.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/477.png"
   },
   {
@@ -4307,7 +4307,7 @@
     "description": "Play Friday Night Funkin' online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/478.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/478.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/478.png"
   },
   {
@@ -4316,7 +4316,7 @@
     "description": "Play Game 479 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/479.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/479.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/479.png"
   },
   {
@@ -4325,7 +4325,7 @@
     "description": "Play Friday Night Funkin’ Sarvente's Mid-Fight Masses online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/480.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/480.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/480.png"
   },
   {
@@ -4334,7 +4334,7 @@
     "description": "Play Friday Night Funkin' (FNF) vs Tricky: Version 2, Phase 3 (w/ CHEAT BOT) online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/481.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/481.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/481.png"
   },
   {
@@ -4343,7 +4343,7 @@
     "description": "Play Game 482 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/482.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/482.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/482.png"
   },
   {
@@ -4352,7 +4352,7 @@
     "description": "Play Hit Single Real online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/483.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/483.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/483.png"
   },
   {
@@ -4361,7 +4361,7 @@
     "description": "Play Friday Night Funkin': Psych Engine online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/484.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/484.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/484.png"
   },
   {
@@ -4370,7 +4370,7 @@
     "description": "Play Friday Night Funkin': Psych Engine online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/485.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/485.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/485.png"
   },
   {
@@ -4379,7 +4379,7 @@
     "description": "Play Sonic Legacy online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/486.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/486.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/486.png"
   },
   {
@@ -4388,7 +4388,7 @@
     "description": "Play Vs. QT Mod online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/487.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/487.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/487.png"
   },
   {
@@ -4397,7 +4397,7 @@
     "description": "Play Friday Night Funkin': Psych Engine online",
     "creator": "Various",
     "category": "Music",
-    "url": "/games/488.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/488.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/488.png"
   },
   {
@@ -4406,7 +4406,7 @@
     "description": "Play Indie Cross online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/489.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/489.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/489.png"
   },
   {
@@ -4415,7 +4415,7 @@
     "description": "Play Rooftop Snipers 2 online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/490.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/490.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/490.png"
   },
   {
@@ -4424,7 +4424,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/491.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/491.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/491.png"
   },
   {
@@ -4433,7 +4433,7 @@
     "description": "Play Asgore Saves His Family online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/492.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/492.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/492.png"
   },
   {
@@ -4442,7 +4442,7 @@
     "description": "Play New project online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/493.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/493.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/493.png"
   },
   {
@@ -4451,7 +4451,7 @@
     "description": "Play New project online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/494.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/494.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/494.png"
   },
   {
@@ -4460,7 +4460,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/495.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/495.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/495.png"
   },
   {
@@ -4469,7 +4469,7 @@
     "description": "Play Endless Aethos online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/496.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/496.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/496.png"
   },
   {
@@ -4478,7 +4478,7 @@
     "description": "Play BopCity online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/497.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/497.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/497.png"
   },
   {
@@ -4487,7 +4487,7 @@
     "description": "Play 17bucks online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/498.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/498.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/498.png"
   },
   {
@@ -4496,7 +4496,7 @@
     "description": "Play Lobotomy Dash Funkin' online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/499.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/499.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/499.png"
   },
   {
@@ -4505,7 +4505,7 @@
     "description": "Play Twiddlefinger online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/500.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/500.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/500.png"
   },
   {
@@ -4514,7 +4514,7 @@
     "description": "Play Kindergarten3Port online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/501.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/501.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/501.png"
   },
   {
@@ -4523,7 +4523,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/502.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/502.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/502.png"
   },
   {
@@ -4532,7 +4532,7 @@
     "description": "Play Five Nights at Candy's 1 online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/503.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/503.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/503.png"
   },
   {
@@ -4541,7 +4541,7 @@
     "description": "Play Five Nights at Candy's 2 online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/504.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/504.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/504.png"
   },
   {
@@ -4550,7 +4550,7 @@
     "description": "Play Game 505 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/505.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/505.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/505.png"
   },
   {
@@ -4559,7 +4559,7 @@
     "description": "Play Game 506 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/506.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/506.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/506.png"
   },
   {
@@ -4568,7 +4568,7 @@
     "description": "Play Game 507 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/507.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/507.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/507.png"
   },
   {
@@ -4577,7 +4577,7 @@
     "description": "Play Game 508 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/508.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/508.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/508.png"
   },
   {
@@ -4586,7 +4586,7 @@
     "description": "Play FNF SOFT Online (Friday Night Funkin') online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/509.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/509.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/509.png"
   },
   {
@@ -4595,7 +4595,7 @@
     "description": "Play Game 510 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/510.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/510.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/510.png"
   },
   {
@@ -4604,7 +4604,7 @@
     "description": "Play Dogeminer online",
     "creator": "Various",
     "category": "Simulation",
-    "url": "/games/511.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/511.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/511.png"
   },
   {
@@ -4613,7 +4613,7 @@
     "description": "Play The Final Earth 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/512.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/512.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/512.png"
   },
   {
@@ -4622,7 +4622,7 @@
     "description": "Play Unity Web Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/513.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/513.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/513.png"
   },
   {
@@ -4631,7 +4631,7 @@
     "description": "Play PortaBoy online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/514.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/514.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/514.png"
   },
   {
@@ -4640,7 +4640,7 @@
     "description": "Play Game 515 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/515.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/515.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/515.png"
   },
   {
@@ -4649,7 +4649,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/516.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/516.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/516.png"
   },
   {
@@ -4658,7 +4658,7 @@
     "description": "Play GXC Game online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/517.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/517.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/517.png"
   },
   {
@@ -4667,7 +4667,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/518.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/518.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/518.png"
   },
   {
@@ -4676,7 +4676,7 @@
     "description": "Play Created with GameMaker Studio 2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/519.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/519.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/519.png"
   },
   {
@@ -4685,7 +4685,7 @@
     "description": "Play DanTheMan-Defold 1.1.10 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/520.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/520.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/520.png"
   },
   {
@@ -4694,7 +4694,7 @@
     "description": "Play Unity WebGL Player online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/521.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/521.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/521.png"
   },
   {
@@ -4703,7 +4703,7 @@
     "description": "Play Created with GameMaker: Studio online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/522.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/522.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/522.png"
   },
   {
@@ -4712,7 +4712,7 @@
     "description": "Play Youhou Mother online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/523.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/523.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/523.png"
   },
   {
@@ -4721,7 +4721,7 @@
     "description": "Play Game 524 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/524.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/524.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/524.png"
   },
   {
@@ -4730,7 +4730,7 @@
     "description": "Play pibby slop online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/525.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/525.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/525.png"
   },
   {
@@ -4739,7 +4739,7 @@
     "description": "Play Flambe Game (JSEmbed) online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/526.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/526.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/526.png"
   },
   {
@@ -4748,7 +4748,7 @@
     "description": "Play Games online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/527.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/527.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/527.png"
   },
   {
@@ -4757,7 +4757,7 @@
     "description": "Play Nickelodeon online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/528.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/528.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/528.png"
   },
   {
@@ -4766,7 +4766,7 @@
     "description": "Play Nickelodeon online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/529.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/529.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/529.png"
   },
   {
@@ -4775,7 +4775,7 @@
     "description": "Play Tasty Pastry Party online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/530.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/530.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/530.png"
   },
   {
@@ -4784,7 +4784,7 @@
     "description": "Play Games online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/531.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/531.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/531.png"
   },
   {
@@ -4793,7 +4793,7 @@
     "description": "Play Nickelodeon online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/532.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/532.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/532.png"
   },
   {
@@ -4802,7 +4802,7 @@
     "description": "Play Nickelodeon online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/533.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/533.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/533.png"
   },
   {
@@ -4811,7 +4811,7 @@
     "description": "Play TTG online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/534.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/534.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/534.png"
   },
   {
@@ -4820,7 +4820,7 @@
     "description": "Play TTG - Jump Jousts 2 online",
     "creator": "Various",
     "category": "Arcade",
-    "url": "/games/535.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/535.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/535.png"
   },
   {
@@ -4829,7 +4829,7 @@
     "description": "Play Cat Connection - V2 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/536.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/536.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/536.png"
   },
   {
@@ -4838,7 +4838,7 @@
     "description": "Play Cat Gunner online",
     "creator": "Various",
     "category": "Action",
-    "url": "/games/537.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/537.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/537.png"
   },
   {
@@ -4847,7 +4847,7 @@
     "description": "Play Love Letters online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/538.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/538.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/538.png"
   },
   {
@@ -4856,7 +4856,7 @@
     "description": "Play Chiikawa Puzzle online",
     "creator": "Various",
     "category": "Puzzle",
-    "url": "/games/539.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/539.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/539.png"
   },
   {
@@ -4865,7 +4865,7 @@
     "description": "Play myTeardrop online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/540.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/540.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/540.png"
   },
   {
@@ -4874,7 +4874,7 @@
     "description": "Play Pibby Apocalypse online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/541.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/541.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/541.png"
   },
   {
@@ -4883,7 +4883,7 @@
     "description": "Play Game 542 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/542.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/542.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/542.png"
   },
   {
@@ -4892,7 +4892,7 @@
     "description": "Play Game 543 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/543.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/543.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/543.png"
   },
   {
@@ -4901,7 +4901,7 @@
     "description": "Play Free Plinko Game Online online",
     "creator": "Various",
     "category": "Multiplayer",
-    "url": "/games/544.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/544.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/544.png"
   },
   {
@@ -4910,7 +4910,7 @@
     "description": "Play Clash Of Vikings online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/545.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/545.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/545.png"
   },
   {
@@ -4919,7 +4919,7 @@
     "description": "Play Recoil online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/546.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/546.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/546.png"
   },
   {
@@ -4928,7 +4928,7 @@
     "description": "Play BASEBALL BROS! online",
     "creator": "Various",
     "category": "Sports",
-    "url": "/games/547.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/547.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/547.png"
   },
   {
@@ -4937,7 +4937,7 @@
     "description": "Play Game 548 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/548.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/548.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/548.png"
   },
   {
@@ -4946,7 +4946,7 @@
     "description": "Play Sonic 2 Community's Cut online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/549.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/549.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/549.png"
   },
   {
@@ -4955,7 +4955,7 @@
     "description": "Play Sonic 3 A.I.R. online",
     "creator": "Various",
     "category": "Adventure",
-    "url": "/games/550.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/550.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/550.png"
   },
   {
@@ -4964,7 +4964,7 @@
     "description": "Play Game 551 online",
     "creator": "Various",
     "category": "Other",
-    "url": "/games/551.html",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/551.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/551.png"
   }
 ]
