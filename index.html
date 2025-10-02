@@ -856,13 +856,39 @@
         }
 
         function showGamesView() {
+            // Restore the games view and clear the game container
             document.getElementById('gridView').classList.remove('active');
             document.getElementById('gamePlayerView').classList.remove('active');
             document.getElementById('gamesView').classList.add('active');
             document.getElementById('backHomeBtn').style.display = 'none';
             document.getElementById('searchInput').value = '';
+            // Clear the gameFrameContainer to remove injected HTML
+            const container = document.getElementById('gameFrameContainer');
+            if (container) container.innerHTML = '<div class="loading" id="loading"><div class="spinner"></div><p>Loading game...</p></div>';
             initializeCarousel();
         }
+
+        // Robust SPA navigation for 'Back to Games' after innerHTML injection
+        document.addEventListener('click', function(e) {
+            const container = document.getElementById('gameFrameContainer');
+            if (!container) return;
+            if (container.contains(e.target)) {
+                let el = e.target;
+                while (el && el !== container) {
+                    // Intercept any anchor or button click inside the game area
+                    if (
+                        (el.tagName === 'A' && el.href && !el.href.startsWith(window.location.origin)) ||
+                        (el.tagName === 'A' && el.getAttribute('href') && el.getAttribute('href').startsWith('http')) ||
+                        (el.classList && (el.classList.contains('back-btn') || el.classList.contains('back-button')))
+                    ) {
+                        e.preventDefault();
+                        showGamesView();
+                        return;
+                    }
+                    el = el.parentElement;
+                }
+            }
+        });
 
         function openGame(gameId) {
             currentGame = allGames.find(game => game.id == gameId);
@@ -909,49 +935,40 @@
             lucide.createIcons();
         }
 
-        function launchGame(gameId) {
+        async function launchGame(gameId) {
+            const container = document.getElementById('gameFrameContainer');
+            const loading = document.getElementById('loading');
+            loading.style.display = 'none';
+            container.innerHTML = '';
             try {
-                fetch(`https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${gameId}.html?t=${Date.now()}`)
-                    .then(response => response.text())
-                    .then(html => {
-                        const container = document.getElementById('gameFrameContainer');
-                        const loading = document.getElementById('loading');
-                        
-                        // Hide loading
-                        loading.style.display = 'none';
-                        
-                        // Replace the container content with the game HTML
-                        container.innerHTML = html;
-
-                        // Re-execute scripts in the loaded content
-                        container.querySelectorAll('script').forEach(oldScript => {
-                            const newScript = document.createElement('script');
-                            if (oldScript.src) {
-                                newScript.src = oldScript.src;
-                            } else {
-                                newScript.textContent = oldScript.textContent;
-                            }
-                            container.appendChild(newScript);
-                        });
-                    })
-                    .catch(error => {
-                        console.error('Error loading game:', error);
-                        // Fallback to iframe
-                        const iframe = document.createElement('iframe');
-                        iframe.className = 'game-frame';
-                        iframe.src = `https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${gameId}.html`;
-                        iframe.allowFullscreen = true;
-                        iframe.allow = "fullscreen; gamepad; microphone; camera";
-                        
-                        const container = document.getElementById('gameFrameContainer');
-                        const loading = document.getElementById('loading');
-                        
-                        loading.style.display = 'none';
-                        container.innerHTML = '';
-                        container.appendChild(iframe);
-                    });
+                // Fetch the HTML as text from jsDelivr
+                const url = `https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${gameId}.html?t=${Date.now()}`;
+                const response = await fetch(url);
+                if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                let html = await response.text();
+                // Compute base URL
+                const baseUrl = url.replace(/\/[^\/]*$/, '/');
+                // Inject <base> tag into <head>
+                if (!html.match(/<head[^>]*>/i)) {
+                    html = html.replace(/<html[^>]*>/i, `$&<head><base href='${baseUrl}'></head>`);
+                } else {
+                    html = html.replace(/<head[^>]*>/i, `$&<base href='${baseUrl}'>`);
+                }
+                // Set innerHTML of the container
+                container.innerHTML = html;
+                // Re-execute scripts in the loaded content
+                container.querySelectorAll('script').forEach(oldScript => {
+                    const newScript = document.createElement('script');
+                    if (oldScript.src) {
+                        newScript.src = oldScript.src;
+                    } else {
+                        newScript.textContent = oldScript.textContent;
+                    }
+                    oldScript.parentNode.replaceChild(newScript, oldScript);
+                });
             } catch (error) {
-                console.error('Error in launchGame function:', error);
+                console.error('Error loading game:', error);
+                container.innerHTML = `<div class='error-message'>Failed to load game: ${error}</div>`;
             }
         }
 
@@ -971,9 +988,29 @@
             }
         }
 
-        function openInNewTab() {
-            if (currentGame && currentGame.url) {
-                window.open(currentGame.url, '_blank', 'noopener,noreferrer');
+        async function openInNewTab() {
+            if (currentGame && currentGame.id) {
+                try {
+                    const url = `https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${currentGame.id}.html?t=${Date.now()}`;
+                    const response = await fetch(url);
+                    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                    let html = await response.text();
+                    // Compute base URL
+                    const baseUrl = url.replace(/\/[^\/]*$/, '/');
+                    // Inject <base> tag into <head>
+                    if (!html.match(/<head[^>]*>/i)) {
+                        html = html.replace(/<html[^>]*>/i, `$&<head><base href='${baseUrl}'></head>`);
+                    } else {
+                        html = html.replace(/<head[^>]*>/i, `$&<base href='${baseUrl}'>`);
+                    }
+                    // Open in new tab using a data URL
+                    const newTab = window.open();
+                    newTab.document.open();
+                    newTab.document.write(html);
+                    newTab.document.close();
+                } catch (error) {
+                    alert('Failed to open game in new tab: ' + error);
+                }
             }
         }
 
