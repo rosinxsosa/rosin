@@ -554,12 +554,19 @@
             border: 1px solid rgba(255,255,255,0.15);
             position: relative;
             min-height: 500px;
+            height: calc(100vh - 200px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
         .game-frame {
-            width: 100%;
-            height: 100%;
             border: none;
+            background: #000;
+            border-radius: 15px;
+            flex-grow: 1;
+            width: 90%;
+            height: 90%;
         }
 
         .loading {
@@ -662,7 +669,7 @@
                 <i data-lucide="gamepad-2" width="28" height="28"></i>
                 <span class="logo-text">rosin</span>
             </div>
-            <a href="#" class="back-home" id="backHomeBtn" style="display: none;">
+            <a href="index.html" class="back-home" id="backHomeBtn" style="display: none;">
                 <i data-lucide="arrow-left" width="18" height="18"></i>
                 <span>Back to Games</span>
             </a>
@@ -772,6 +779,16 @@
                 allGames = games;
                 initializeCarousel();
                 startRandomGameRotation();
+                
+                // Handle direct game loading via URL parameters (like gn-math)
+                const search = new URLSearchParams(window.location.search);
+                const id = search.get('id');
+                if (id) {
+                    const game = allGames.find(game => game.id + '' == id + '');
+                    if (game) {
+                        openGame(game.id);
+                    }
+                }
             })
             .catch(error => {
                 console.error('Error loading games from CDN:', error);
@@ -862,30 +879,30 @@
             document.getElementById('gamesView').classList.add('active');
             document.getElementById('backHomeBtn').style.display = 'none';
             document.getElementById('searchInput').value = '';
-            // Clear the gameFrameContainer to remove injected HTML
+            
+            // Clean up iframe properly
             const container = document.getElementById('gameFrameContainer');
+            const gameFrame = document.getElementById('gameFrame');
+            if (gameFrame && container.contains(gameFrame)) {
+                container.removeChild(gameFrame);
+            }
             if (container) container.innerHTML = '<div class="loading" id="loading"><div class="spinner"></div><p>Loading game...</p></div>';
+            
+            // Clear URL parameters (like gn-math)
+            const url = new URL(window.location);
+            url.searchParams.delete('id');
+            history.pushState(null, '', url.toString());
+            
             initializeCarousel();
         }
 
-        // Robust SPA navigation for 'Back to Games' after innerHTML injection
-        document.addEventListener('click', function(e) {
-            const container = document.getElementById('gameFrameContainer');
-            if (!container) return;
-            if (container.contains(e.target)) {
-                let el = e.target;
-                while (el && el !== container) {
-                    // Intercept any anchor or button click inside the game area
-                    if (
-                        (el.tagName === 'A' && el.href && !el.href.startsWith(window.location.origin)) ||
-                        (el.tagName === 'A' && el.getAttribute('href') && el.getAttribute('href').startsWith('http')) ||
-                        (el.classList && (el.classList.contains('back-btn') || el.classList.contains('back-button')))
-                    ) {
-                        e.preventDefault();
-                        showGamesView();
-                        return;
-                    }
-                    el = el.parentElement;
+        // Handle iframe navigation - listen for messages from iframe
+        window.addEventListener('message', function(event) {
+            // Check if message is from our game iframe
+            const gameFrame = document.getElementById('gameFrame');
+            if (gameFrame && event.source === gameFrame.contentWindow) {
+                if (event.data === 'back-to-games') {
+                    showGamesView();
                 }
             }
         });
@@ -898,6 +915,11 @@
                 document.getElementById('gridView').classList.remove('active');
                 document.getElementById('gamePlayerView').classList.add('active');
                 document.getElementById('backHomeBtn').style.display = 'inline-flex';
+                
+                // Update URL parameters (like gn-math)
+                const url = new URL(window.location);
+                url.searchParams.set('id', gameId);
+                history.pushState(null, '', url.toString());
                 
                 displayGame(currentGame);
             }
@@ -938,37 +960,58 @@
         async function launchGame(gameId) {
             const container = document.getElementById('gameFrameContainer');
             const loading = document.getElementById('loading');
-            loading.style.display = 'none';
-            container.innerHTML = '';
+            
             try {
                 // Fetch the HTML as text from jsDelivr
                 const url = `https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${gameId}.html?t=${Date.now()}`;
                 const response = await fetch(url);
                 if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
                 let html = await response.text();
-                // Compute base URL
-                const baseUrl = url.replace(/\/[^\/]*$/, '/');
-                // Inject <base> tag into <head>
-                if (!html.match(/<head[^>]*>/i)) {
-                    html = html.replace(/<html[^>]*>/i, `$&<head><base href='${baseUrl}'></head>`);
-                } else {
-                    html = html.replace(/<head[^>]*>/i, `$&<base href='${baseUrl}'>`);
+                
+                // Create iframe exactly like gn-math implementation
+                let gameFrame = document.getElementById('gameFrame');
+                if (gameFrame === null) {
+                    gameFrame = document.createElement('iframe');
+                    gameFrame.id = 'gameFrame';
+                    gameFrame.className = 'game-frame';
+                    container.appendChild(gameFrame);
                 }
-                // Set innerHTML of the container
-                container.innerHTML = html;
-                // Re-execute scripts in the loaded content
-                container.querySelectorAll('script').forEach(oldScript => {
-                    const newScript = document.createElement('script');
-                    if (oldScript.src) {
-                        newScript.src = oldScript.src;
-                    } else {
-                        newScript.textContent = oldScript.textContent;
-                    }
-                    oldScript.parentNode.replaceChild(newScript, oldScript);
-                });
+                
+                // Hide loading spinner
+                loading.style.display = 'none';
+                
+                // Write HTML directly to iframe - exact gn-math approach
+                gameFrame.contentDocument.open();
+                gameFrame.contentDocument.write(html);
+                gameFrame.contentDocument.close();
+                
             } catch (error) {
                 console.error('Error loading game:', error);
-                container.innerHTML = `<div class='error-message'>Failed to load game: ${error}</div>`;
+                // Hide loading spinner on error
+                loading.style.display = 'none';
+                
+                // Create iframe for error display
+                let gameFrame = document.getElementById('gameFrame');
+                if (gameFrame === null) {
+                    gameFrame = document.createElement('iframe');
+                    gameFrame.id = 'gameFrame';
+                    gameFrame.className = 'game-frame';
+                    container.appendChild(gameFrame);
+                }
+                
+                gameFrame.contentDocument.open();
+                gameFrame.contentDocument.write(`
+                    <html>
+                        <head><title>Error</title></head>
+                        <body style="display:flex;align-items:center;justify-content:center;height:100vh;font-family:Arial,sans-serif;background:#1a1a1a;color:#fff;">
+                            <div style="text-align:center;">
+                                <h2>Failed to load game</h2>
+                                <p>${error}</p>
+                            </div>
+                        </body>
+                    </html>
+                `);
+                gameFrame.contentDocument.close();
             }
         }
 
@@ -976,13 +1019,32 @@
             return categoryIcons[category] || 'gamepad-2';
         }
 
-        function toggleFullscreen() {
+        function closeGame() {
+            const gameFrame = document.getElementById('gameFrame');
             const container = document.getElementById('gameFrameContainer');
             
+            if (gameFrame && container.contains(gameFrame)) {
+                container.removeChild(gameFrame);
+            }
+            
+            // Reset container to loading state
+            container.innerHTML = '<div class="loading" id="loading"><div class="spinner"></div><p>Loading game...</p></div>';
+            
+            // Show games view
+            showGamesView();
+        }
+
+        function toggleFullscreen() {
+            const gameFrame = document.getElementById('gameFrame');
+            
             if (!document.fullscreenElement) {
-                container.requestFullscreen().catch(err => {
-                    console.error('Error attempting to enable fullscreen:', err);
-                });
+                if (gameFrame && gameFrame.requestFullscreen) {
+                    gameFrame.requestFullscreen().catch(err => {
+                        console.error('Error attempting to enable fullscreen:', err);
+                    });
+                } else {
+                    console.error('Fullscreen not supported or iframe not found');
+                }
             } else {
                 document.exitFullscreen();
             }
@@ -991,23 +1053,18 @@
         async function openInNewTab() {
             if (currentGame && currentGame.id) {
                 try {
+                    // Open new tab exactly like gn-math does
+                    const newWindow = window.open("about:blank", "_blank");
                     const url = `https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/${currentGame.id}.html?t=${Date.now()}`;
                     const response = await fetch(url);
                     if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
                     let html = await response.text();
-                    // Compute base URL
-                    const baseUrl = url.replace(/\/[^\/]*$/, '/');
-                    // Inject <base> tag into <head>
-                    if (!html.match(/<head[^>]*>/i)) {
-                        html = html.replace(/<html[^>]*>/i, `$&<head><base href='${baseUrl}'></head>`);
-                    } else {
-                        html = html.replace(/<head[^>]*>/i, `$&<base href='${baseUrl}'>`);
+                    
+                    if (newWindow) {
+                        newWindow.document.open();
+                        newWindow.document.write(html);
+                        newWindow.document.close();
                     }
-                    // Open in new tab using a data URL
-                    const newTab = window.open();
-                    newTab.document.open();
-                    newTab.document.write(html);
-                    newTab.document.close();
                 } catch (error) {
                     alert('Failed to open game in new tab: ' + error);
                 }
