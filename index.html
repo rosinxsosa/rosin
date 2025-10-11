@@ -772,7 +772,7 @@
         };
 
         // Load games from CDN JSON
-        fetch('https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@latest/games.json')
+        fetch('https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games.json')
             .then(response => response.json())
             .then(games => {
                 console.log('Loaded games from CDN:', games.length);
