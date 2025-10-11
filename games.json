@@ -4975,5 +4975,32 @@
     "category": "Other",
     "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/554.html",
     "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/554.png"
+  },
+  {
+    "id": 553,
+    "name": "Buildnow.gg",
+    "description": "Play Game 551 online",
+    "creator": "Various",
+    "category": "Other",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/buildnowgg.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/581.png"
+  },
+{
+    "id": 554,
+    "name": "steal a brainrot online",
+    "description": "Play Game 551 online",
+    "creator": "Various",
+    "category": "Other",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/577.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/577.png"
+  },
+{
+    "id": 555,
+    "name": "Bitgun.io",
+    "description": "Play Game 551 online",
+    "creator": "Various",
+    "category": "Other",
+    "url": "https://cdn.jsdelivr.net/gh/rosinxsosa/rosin@main/games/561.html",
+    "image": "https://cdn.jsdelivr.net/gh/gn-math/covers@main/561.png"
   }
 ]
